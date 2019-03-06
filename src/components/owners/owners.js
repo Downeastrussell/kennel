@@ -9,7 +9,7 @@ class OwnerList extends Component {
             {
                 this.props.owners.map(owners =>
                     <div key={owners.id}>
-                       <p>{owners.name} -- Phone: {owners.phone}</p>
+                       <p>{owners.name}</p>
 
                     </div>
                 )
