@@ -2,14 +2,6 @@
   "employees": [
     {
       "id": 2,
-      "name": "Jordan Nelson"
-    },
-    {
-      "id": 3,
-      "name": "Zoe LeBlanc"
-    },
-    {
-      "id": 4,
       "name": "Blaise Roberts"
     }
   ],
@@ -31,39 +23,10 @@
       "address": "321 alley"
     }
   ],
-  "animals": [
-    {
-      "id": 1,
-      "name": "Jessica Younker"
-    },
-    {
-      "id": 2,
-      "name": "Jordan Nelson"
-    },
-    {
-      "id": 3,
-      "name": "Zoe LeBlanc"
-    },
-    {
-      "id": 4,
-      "name": "Blaise Roberts"
-    }
-  ],
+  "animals": [],
   "owners": [
     {
-      "id": 1,
-      "name": "Jessica Younker"
-    },
-    {
       "id": 2,
-      "name": "Jordan Nelson"
-    },
-    {
-      "id": 3,
-      "name": "Zoe LeBlanc"
-    },
-    {
-      "id": 4,
       "name": "Blaise Roberts"
     }
   ]

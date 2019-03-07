@@ -8,6 +8,7 @@ export default class AnimalList extends Component {
     render () {
         return (
             <section className="animals">
+
             {
                 this.props.animals.map(animals =>
                     <div key={animals.id} className="card">
@@ -18,10 +19,12 @@ export default class AnimalList extends Component {
                                 <button
                                     onClick={()=> this.props.deleteAnimals(animals.id)}
                                     className="card-link">Delete</button>
+
                             </h5>
                         </div>
                     </div>
                 )
+
             }
             </section>
         )
