@@ -1,32 +1,70 @@
 {
-    "employees": [
-        { "id": 1, "name": "Jessica Younker" },
-        { "id": 2, "name": "Jordan Nelson" },
-        { "id": 3, "name": "Zoe LeBlanc" },
-        { "id": 4, "name": "Blaise Roberts" }
-    ],
-
-    "locations": [
-        { "id": 1, "address": "123 street" },
-        { "id": 2, "address": "321 lane" },
-        { "id": 3, "address": "123 drive" },
-        { "id": 4, "address": "321 alley" }
-    ],
-
-    "animals": [
-        { "id": 1, "name": "kitty" },
-        { "id": 2, "name": "cat" },
-        { "id": 3, "name": "doggy" },
-        { "id": 4, "name": "dog" }
-    ],
-
-    "owners": [
-        { "id": 1, "name": "Jessica Smithers" },
-        { "id": 2, "name": "Nelson Mandalin" },
-        { "id": 3, "name": "Curry Le Brock" },
-        { "id": 4, "name": "Miss LadyFace" }
-    ]
-
-
-
+  "employees": [
+    {
+      "id": 2,
+      "name": "Jordan Nelson"
+    },
+    {
+      "id": 3,
+      "name": "Zoe LeBlanc"
+    },
+    {
+      "id": 4,
+      "name": "Blaise Roberts"
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "address": "123 street"
+    },
+    {
+      "id": 2,
+      "address": "321 lane"
+    },
+    {
+      "id": 3,
+      "address": "123 drive"
+    },
+    {
+      "id": 4,
+      "address": "321 alley"
+    }
+  ],
+  "animals": [
+    {
+      "id": 1,
+      "name": "Jessica Younker"
+    },
+    {
+      "id": 2,
+      "name": "Jordan Nelson"
+    },
+    {
+      "id": 3,
+      "name": "Zoe LeBlanc"
+    },
+    {
+      "id": 4,
+      "name": "Blaise Roberts"
+    }
+  ],
+  "owners": [
+    {
+      "id": 1,
+      "name": "Jessica Younker"
+    },
+    {
+      "id": 2,
+      "name": "Jordan Nelson"
+    },
+    {
+      "id": 3,
+      "name": "Zoe LeBlanc"
+    },
+    {
+      "id": 4,
+      "name": "Blaise Roberts"
+    }
+  ]
 }
